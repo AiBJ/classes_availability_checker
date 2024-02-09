@@ -28,12 +28,12 @@ This Python script allows you to search for available labs and their occupation 
 ## Example
 
 - To search for available labs at a specific time and day, select option 'T' and provide the time and day as input.
-      **Input Example** :
+-       **Input Example** :
            choose :T
            Time : 11:00
   
 - To search for a specific lab, select option 'L' and enter the lab number.
-      **Input Example** :
+-       **Input Example** :
            choose :L
            enter the lab number : 11
 
