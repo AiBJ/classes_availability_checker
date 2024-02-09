@@ -4,6 +4,8 @@
 
 This Python script allows you to search for available labs and their occupation time based on specific criteria. It reads data from a CSV file and provides two search options: searching by time and searching for a specific lab.
 
+**Python Code** : [Check Here](https://github.com/AiBJ/classes_availability_checker/blob/main/searchCode.py)
+
 ## Prerequisites
 
 - Python 3.x installed on your system.
