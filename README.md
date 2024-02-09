@@ -35,7 +35,9 @@ This Python script allows you to search for available labs and their occupation 
 - Ensure that the CSV file 'Academic-Affairs-First-term-2024.csv' is correctly formatted and contains the necessary data for the script to work.
 - If you encounter any issues or errors, please check your input and the presence of the CSV file.
 
-- The header of the CSV file is : ![image](https://github.com/AiBJ/classes_availability_checker/assets/103126729/9987d3f4-3af8-4fc0-ae8b-a204184ff34b)
+- The header of the CSV file is :
+
+   ![image](https://github.com/AiBJ/classes_availability_checker/assets/103126729/9987d3f4-3af8-4fc0-ae8b-a204184ff34b)
 
 
 ## Author
